@@ -1,1 +1,1 @@
-# voting-team
+Hello, this is my first java script project. in this you can vote any one out of two team members.those votes will get increased by one. it is simple project which i have made using only html and javascript. 
